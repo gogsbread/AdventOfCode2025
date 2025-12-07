@@ -1,5 +1,3 @@
-extern crate aoc_2024;
-
 use aoc_2024::*;
 use std::error;
 

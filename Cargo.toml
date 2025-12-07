@@ -1,6 +1,7 @@
 [package]
 name = "aoc_2025"
 version = "0.1.0"
+edition = "2021"
 
 [dependencies]
 aoc_2024 = { path = "../AdventOfCode2024", version = "0.1.0" }
